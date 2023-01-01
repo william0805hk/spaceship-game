@@ -18,6 +18,6 @@
   "homepage": "https://github.com/william0805hk/spaceship-game#readme",
   "dependencies": {
     "parcel-plugin-url-loader": "^1.3.1",
-    "phaser": "^3.22.0"
+    "phaser": "^3.55.2"
   }
 }
